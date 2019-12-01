@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HandGunOverrideController
+  m_Controller: {fileID: 9100000, guid: 477d2f676bbcdf54485bd6285f4e969e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1204ef072c5490b41879cdf06ff8e4d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f177028ee5339374aa0f1e7570220f36, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 47ee4c717f2fa544a800e149631af539, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ab4408353eb0f8c4e83c79eab8de7bf4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 89cb3d38ae69e3d4bae3cf8119d0054d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b62c55a6bd793b3479b3e47f6d928fe2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ef3c86a7ecaec6b44ba4be8208481fa8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef3c86a7ecaec6b44ba4be8208481fa8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1377e4227ea41de45a138fc0f9cc2abd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f6dedfe8ac5b52648a880876370e7146, type: 2}

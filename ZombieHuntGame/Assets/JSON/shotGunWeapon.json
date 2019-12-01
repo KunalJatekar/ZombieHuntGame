@@ -1,0 +1,7 @@
+﻿{
+	"weaponController" : "ShotgunOverrideController"
+}
+
+//every time to create object we have to use { }
+//name and type are needed for json file
+//they are separeted bye :
